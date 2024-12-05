@@ -1,0 +1,4 @@
+<resources>
+    <item name="sensor_list_view_item" type="id"/>
+    <item name="sensor_list_view" type="id"/>
+</resources>
